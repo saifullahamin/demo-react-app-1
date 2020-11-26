@@ -1,3 +1,8 @@
+# react-demo-project
+
+A demo project built as a practice to learn to deploy react applications on Surge using Github Actions.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
