@@ -2,7 +2,7 @@
 
 A demo project built as a practice to learn to deploy react applications on Surge using Github Actions.
 
-Surge Link: http://saifullahamin_react.surge.sh/
+Surge Website Link: http://saifullahamin_react.surge.sh/
 
 
 # Getting Started with Create React App
